@@ -42,7 +42,7 @@ Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenh
   <a href="mailto:granataleonardo27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/leonardo-jordão-granata-a3452b36a" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-jordão-granata-a3452b36a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/17981252107" target="_blank">
