@@ -1,16 +1,52 @@
-## Hi there 👋
+# 💻 Leonardo Jordão Granata — Desenvolvedor Backend em Formação
 
-<!--
-**leonardogranata/leonardogranata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil, onde armazeno meus projetos de aprendizado, estudos e experiências práticas com desenvolvimento de sistemas. Atualmente focado em **Python** com o framework **Django**, também atuo com **HTML, CSS, JavaScript**, **MySQL** e **SQLite**.
 
-Here are some ideas to get you started:
+## 🧠 Sobre mim
+Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenho como objetivo me tornar um desenvolvedor backend completo, buscando sempre aprender tecnologias novas e resolver problemas reais com código limpo e eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que eu domino:
+
+<h3>Linguagens de Programação:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right: 15px;" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right: 15px;" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right: 15px;" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin-right: 15px;" alt="CSS3 logo" />
+</p>
+
+<h3>Frameworks:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" style="margin-right: 15px;" alt="Django logo" />
+</p>
+
+<h3>Bancos de Dados:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin-right: 15px;" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" style="margin-right: 15px;" alt="SQLite logo" />
+</p>
+
+<h3>Ferramentas e Versionamento:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right: 15px;" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right: 15px;" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin-right: 15px;" alt="VSCode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" style="margin-right: 15px;" />
+          
+</p>
+
+
+## 📬 Meus Contatos
+
+<p align="left">
+  <a href="mailto:granataleonardo27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-link-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/17981252107" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  </a>
+</p>
