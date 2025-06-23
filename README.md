@@ -7,7 +7,7 @@ Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenh
 
 ## 🛠️ Tecnologias que eu domino:
 
-<h3>Linguagens de Programação:</h3>
+<h3>Linguagens:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right: 20px;" alt="Python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right: 20px;" alt="JavaScript logo" />
