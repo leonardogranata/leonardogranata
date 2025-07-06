@@ -9,27 +9,44 @@ Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenh
 
 <h3>Linguagens:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" style="margin-right: 8px;" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" style="margin-right: 8px;" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" style="margin-right: 8px;" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" style="margin-right: 8px;" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
 </p>
 
 <h3>Frameworks:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="18" style="margin-right: 8px;" alt="Django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
 </p>
 
 <h3>Bancos de Dados:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="18" style="margin-right: 8px;" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="18" style="margin-right: 8px;" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
 </p>
 
 <h3>Ferramentas e Versionamento:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" style="margin-right: 8px;" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" style="margin-right: 8px;" alt="GitHub
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="20" style="margin-right: 8px; display: inline-block; vertical-align: middle;" />
+</p>
+
+## 📬 Meus Contatos
+
+<p align="left">
+  <a href="mailto:granataleonardo27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-jordão-granata-a3452b36a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/17981252107" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 
 
