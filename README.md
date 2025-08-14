@@ -1,6 +1,7 @@
 # 💻 Leonardo Jordão Granata — Desenvolvedor Backend em Formação
 
-Seja bem-vindo(a) ao meu perfil, onde armazeno meus projetos de aprendizado, estudos e experiências práticas com desenvolvimento de sistemas. Atualmente focado em **Python** com o framework **Django**, também atuo com **HTML, CSS, JavaScript**, **MySQL** e **SQLite**.
+Seja bem-vindo(a) ao meu perfil, onde armazeno meus projetos de aprendizado, estudos e experiências práticas com desenvolvimento de sistemas. Aqui você vai ver meus trabalhos, estudos e um pedaço da minha trajetória como desenvolvedor.
+Sinta-se livre para explorar, acompanhar de perto ou trocar uma boa conversa. Compartilhar conhecimento sempre vale a pena!
 
 ## 🧠 Sobre mim
 
