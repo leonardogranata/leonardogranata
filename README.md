@@ -1,3 +1,5 @@
+
+
 # 💻 Leonardo Jordão Granata — Desenvolvedor Backend em Formação
 
 Seja bem-vindo(a) ao meu perfil, onde armazeno meus projetos de aprendizado, estudos e experiências práticas com desenvolvimento de sistemas. Aqui você vai ver meus trabalhos, estudos e um pedaço da minha trajetória como desenvolvedor.
@@ -34,6 +36,7 @@ Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenh
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
 </p>
 
 ## 📬 Meus Contatos
