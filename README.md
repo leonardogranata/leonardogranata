@@ -1,4 +1,4 @@
-
+![Banner](Banner.png)
 
 # 💻 Leonardo Jordão Granata — Desenvolvedor Backend em Formação
 
