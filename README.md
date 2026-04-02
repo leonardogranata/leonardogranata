@@ -2,12 +2,13 @@
 
 # 💻 Leonardo Jordão Granata — Desenvolvedor Backend em Formação
 
-Seja bem-vindo(a) ao meu perfil, onde armazeno meus projetos de aprendizado, estudos e experiências práticas com desenvolvimento de sistemas. Aqui você vai ver meus trabalhos, estudos e um pedaço da minha trajetória como desenvolvedor.
-Sinta-se livre para explorar, acompanhar de perto ou trocar uma boa conversa. Compartilhar conhecimento sempre vale a pena!
+Seja bem-vindo ao meu perfil. Aqui eu centralizo meus projetos práticos de desenvolvimento backend, onde aplico conceitos de arquitetura, APIs e manipulação de dados para resolver problemas reais.
+Os repositórios refletem minha evolução técnica desde fundamentos até aplicações mais estruturadas, sempre com foco em código limpo, organização e tomada de decisão técnica.
 
 ## 🧠 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenho como objetivo me tornar um desenvolvedor backend completo, buscando sempre aprender tecnologias novas e resolver problemas reais com código limpo e eficiente.
+Sou estudante de Ciência da Computação na UNIP, com formação técnica em Desenvolvimento de Sistemas pelo SENAI.
+Atuo com foco em backend, desenvolvendo APIs, integrações e sistemas orientados a dados. Busco evoluir constantemente em arquitetura de software, boas práticas e construção de aplicações escaláveis.
 
 ## 🛠️ Tecnologias que eu domino
 
@@ -45,6 +46,6 @@ Sou estudante de Desenvolvimento de Sistemas, cursando o técnico no SENAI. Tenh
 
 ## 📬 Meus Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:granataleonardo27@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jordaogranataleonardo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jordão-granata-a3452b36a)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/17981252107)
