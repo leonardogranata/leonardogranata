@@ -45,6 +45,13 @@ Atuo com foco em backend, desenvolvendo APIs, integrações e sistemas orientado
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="50"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardogranata&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+
 ## 📬 Meus Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jordaogranataleonardo@gmail.com)
