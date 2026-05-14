@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-# 💻 Leonardo Jordão Granata — Desenvolvedor Backend em Formação
+# 💻 Leonardo Jordão Granata — Desenvolvedor Web
 
 Seja bem-vindo ao meu perfil. Aqui eu centralizo meus projetos práticos de desenvolvimento backend, onde aplico conceitos de arquitetura, APIs e manipulação de dados para resolver problemas reais.
 Os repositórios refletem minha evolução técnica desde fundamentos até aplicações mais estruturadas, sempre com foco em código limpo, organização e tomada de decisão técnica.
@@ -16,7 +16,6 @@ Atuo com foco em backend, desenvolvendo APIs, integrações e sistemas orientado
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
