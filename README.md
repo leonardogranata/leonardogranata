@@ -58,3 +58,5 @@ Atuo com foco em backend, desenvolvendo APIs, integrações e sistemas orientado
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jordaogranataleonardo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jordão-granata-a3452b36a)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/17981252107)
+
+![Snake animation](https://github.com/leonardogranata/leonardogranata/blob/output/github-contribution-grid-snake.svg)
