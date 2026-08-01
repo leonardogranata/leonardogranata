@@ -41,16 +41,12 @@ Atuo com foco em backend, desenvolvendo APIs, integrações e sistemas orientado
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
 </p>
 
-### Testes de API
-<p>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="50"/>
-</p>
-
-### Versionamento
+### Ferramentas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="50"/>
 </p>
 
 ## 📬 Meus Contatos
