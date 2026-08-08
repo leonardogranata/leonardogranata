@@ -67,6 +67,18 @@ Meus repositórios refletem minha evolução técnica, do fundamento à aplicaç
 
 ---
 
+## 🤝 Contribuições
+
+### [Reuse.AI](https://github.com/PedroMoraes57/Reuse-Ai) 🌱
+
+Projeto desenvolvido em equipe para identificação de objetos por imagem e orientação sobre o descarte correto.
+
+**Minha contribuição:** desenvolvimento do back-end e da API responsável pelo processamento das imagens e comunicação com o modelo de classificação.
+
+**Tecnologias:** Python • FastAPI • Django • IA/Visão Computacional • Typescript • React
+
+---
+
 ## 📫 Contato
 
 Fique à vontade para entrar em contato comigo através de qualquer canal abaixo:
