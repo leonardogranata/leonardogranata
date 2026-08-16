@@ -2,7 +2,7 @@
 
 <h1 align="center">💻 Leonardo Jordão Granata</h1>
 
-<h3 align="center">Desenvolvedor Full-Stack • APIs • Arquitetura de Software</h3>
+<h3 align="center">Desenvolvedor Back-End • APIs • Arquitetura de Software</h3>
 
 <a href="mailto:jordaogranataleonardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/leonardo-jordão-granata-a3452b36a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -73,9 +73,9 @@ Meus repositórios refletem minha evolução técnica, do fundamento à aplicaç
 
 Projeto desenvolvido em equipe para identificação de objetos por imagem e orientação sobre o descarte correto.
 
-**Minha contribuição:** desenvolvimento do back-end e da API responsável pelo processamento das imagens e comunicação com o modelo de classificação.
+**Minha contribuição:** desenvolvimento do **back-end em Django** e integração entre **front-end, back-end e IA**, estruturando a comunicação entre a aplicação web, a API e o modelo responsável pela classificação das imagens.
 
-**Tecnologias:** Python • FastAPI • Django • IA/Visão Computacional • Typescript • React
+**Tecnologias:** Python • Django • FastAPI • IA/Visão Computacional • TypeScript • React
 
 ---
 
