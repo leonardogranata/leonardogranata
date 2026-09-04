@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080707,50:1A1014,100:5C1626&height=220&section=header&text=LEONARDO.GRANATA&fontSize=48&fontColor=D8D0D3&fontAlignY=38&desc=%3E%20BACKEND%20DEVELOPER%20//%20SYSTEM%20ONLINE&descAlignY=58&descSize=18&descColor=8F7D84&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080707,50:1A1014,100:5C1626&height=220&section=header&text=LEONARDO.GRANATA&fontSize=48&fontColor=D8D0D3&fontAlignY=38&desc=%3E%20FULLSTACK%20DEVELOPER%20/%20SYSTEM%20ONLINE&descAlignY=58&descSize=18&descColor=8F7D84&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A3263A&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Carregando+modulo%3A+Backend+Developer;Compilando+APIs+REST...;Arquitetura+em+desenvolvimento...;STATUS%3A+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A3263A&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Carregando+modulo%3A+Fullstack+Developer;Compilando+APIs+REST...;Arquitetura+em+desenvolvimento...;STATUS%3A+ONLINE" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8F7D84&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Estudante+de+Ciencia+da+Computacao;Construindo+APIs+REST+escalaveis;Aprendendo+Arquitetura+de+Software" alt="Typing SVG 2" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8F7D84&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Estudante+de+Ciencia+da+Computacao;Construindo+APIs+REST+escalaveis;Aprendendo+Arquitetura+de+Software" alt="Typing SVG 2" />
 
 <br><br>
 
@@ -25,10 +25,6 @@
 <a href="https://github.com/leonardogranata">
 <img src="https://img.shields.io/badge/GitHub-0B090A?style=for-the-badge&logo=github&logoColor=D8D0D3&labelColor=0B090A" />
 </a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=leonardogranata&style=for-the-badge&color=A3263A&labelColor=0B090A&label=PROFILE+VIEWS" />
 
 </div>
 
