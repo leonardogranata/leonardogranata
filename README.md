@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Gmail-0B090A?style=for-the-badge&logo=gmail&logoColor=A3263A&labelColor=0B090A" />
 </a>
 
-<a href="https://www.linkedin.com/in/leonardo-jordão-granata-a3452b36a">
+<a href="https://www.linkedin.com/in/leonardojordaogranata/">
 <img src="https://img.shields.io/badge/LinkedIn-0B090A?style=for-the-badge&logo=linkedin&logoColor=8F7D84&labelColor=0B090A" />
 </a>
 
@@ -169,31 +169,7 @@ Utiliza previsão de consumo para auxiliar na tomada de decisões e planejamento
 
 ## Estatísticas
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardogranata&show_icons=true&theme=dark&hide_border=true&bg_color=0B090A&title_color=A3263A&icon_color=7D3345&text_color=8F7D84"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogranata&layout=compact&theme=dark&hide_border=true&bg_color=0B090A&title_color=A3263A&text_color=8F7D84"/>
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=leonardogranata&theme=dark&hide_border=true&background=0B090A&ring=A3263A&fire=7D3345&currStreakLabel=A3263A"/>
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardogranata&theme=github-compact&hide_border=true&bg_color=0B090A&color=A3263A&line=6E2636&point=D8D0D3"/>
-
-</div>
-
-<br>
-
-## Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=leonardogranata&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
-
-</div>
 
 <br>
 
@@ -201,8 +177,23 @@ Utiliza previsão de consumo para auxiliar na tomada de decisões e planejamento
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/leonardogranata/leonardogranata/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/leonardogranata/leonardogranata/output/github-contribution-grid-snake-dark.svg"
+  />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/leonardogranata/leonardogranata/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/leonardogranata/leonardogranata/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 <sub>Snake gerada automaticamente via GitHub Actions a partir do meu grafo de contribuições</sub>
 
 </div>
@@ -219,7 +210,7 @@ Utiliza previsão de consumo para auxiliar na tomada de decisões e planejamento
 
 **📫 Vamos conversar:**
 [Gmail](mailto:jordaogranataleonardo@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/leonardo-jord%C3%A3o-granata-a3452b36a) ·
+[LinkedIn](https://www.linkedin.com/in/leonardojordaogranata/) ·
 [WhatsApp](https://wa.me/5517981252107)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C1626,100:080707&height=100&section=footer&reversed=true" width="100%"/>
