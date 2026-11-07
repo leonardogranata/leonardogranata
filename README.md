@@ -203,21 +203,6 @@ Utiliza dados históricos de consumo para gerar previsões e auxiliar no planeja
 
 <br>
 
-### 📚 Estudando e explorando
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB"/>
-&nbsp;&nbsp;
-
-</div>
-
-<br>
-
-`MongoDB` `Arquitetura de Software` `Design de APIs` `Modelagem de Dados`
-
-<br>
-
 ## 🏗️ Áreas que quero aprofundar
 
 ```text
